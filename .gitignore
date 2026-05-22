@@ -48,3 +48,5 @@ build/lib/
 
 # Egg-info generated in source
 *.egg-info/
+
+sim_results/
