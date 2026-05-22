@@ -1,0 +1,2 @@
+#format:  ra_h ra_m ra_s dec_d dec_m dec_s i
+23 57 22.8806458994 -29 39 26.1267953670 1.0
