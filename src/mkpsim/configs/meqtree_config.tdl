@@ -12,6 +12,6 @@ ms_sel.ms_channel_step = 1
 ms_sel.ms_corr_sel = 4
 ms_sel.ms_polarization = XX YY XY YX
 pybeams_fits.missing_is_null = 0
-pybeams_fits.normalize_gains = 1
+pybeams_fits.normalize_gains = 0
 pybeams_fits.sky_rotation = 1  
 pybeams_fits.verbose_level = 1
